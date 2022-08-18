@@ -731,10 +731,10 @@ html[dir="rtl"] .add-to .dropdown-content {
   height: auto;
   transition: all 0.5s ease-in-out;
 }
-.category-box:hover img {
+/* .category-box:hover img {
   -webkit-transform: rotateY(360deg);
   transform: rotateY(360deg);
-}
+} */
 .category-section .swiper-pagination {
   position: relative;
   width: 100%;
