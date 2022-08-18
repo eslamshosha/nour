@@ -285,7 +285,7 @@ nav {
 .top-header .big-menu {
   display: none;
 }
-.top-header .big-menu li {
+.top-header .big-menu > li {
   margin: 0 12px;
 }
 .top-header .big-menu .cat-anchor {
