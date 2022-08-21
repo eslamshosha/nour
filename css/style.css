@@ -1989,8 +1989,8 @@ html[dir="rtl"] .footer-accordion.active:after {
 /*                                 arrow-top                           */
 .arrow-top {
   position: fixed;
-  bottom: 30px;
-  inset-inline-start: 30px;
+  bottom: 75px;
+  inset-inline-start: 20px;
   display: none;
   z-index: 10;
   text-decoration: none !important;
@@ -2015,8 +2015,8 @@ html[dir="rtl"] .footer-accordion.active:after {
 }
 .fixed-what {
   position: fixed;
-  bottom: 75px;
-  inset-inline-start: 20px;
+  bottom: 10px;
+  inset-inline-start: 10px;
   z-index: 10;
   text-decoration: none !important;
 }
@@ -2038,12 +2038,12 @@ html[dir="rtl"] .footer-accordion.active:after {
 }
 @media (max-width: 767px) {
   .arrow-top {
-    bottom: 30px;
+    bottom: 65px;
     inset-inline-start: 14px;
   }
   .fixed-what {
     position: fixed;
-    bottom: 80px;
+    bottom: 10px;
     inset-inline-start: 10px;
   }
   .fixed-what i {
