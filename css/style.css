@@ -2140,6 +2140,9 @@ html[dir="rtl"] .footer-accordion.active:after {
   padding: 10px 0;
   transition: all 0.3s ease-in-out;
 }
+html[dir="ltr"] .cats-dispaly{
+  transform: translateX(-5%);
+}
 .cats-dispaly::before {
   content: "";
   display: block;
